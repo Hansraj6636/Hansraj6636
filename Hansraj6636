@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UPSC RPSC Preparation Guide</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 1rem;
+            text-align: center;
+        }
+        nav {
+            background-color: #333;
+            overflow: hidden;
+        }
+        nav a {
+            float: left;
+            display: block;
+            color: #f2f2f2;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+        nav a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        .container {
+            padding: 20px;
+        }
+        .blog-post {
+            background-color: white;
+            margin: 20px 0;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .blog-post h2 {
+            color: #333;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>UPSC RPSC Preparation Guide</h1>
+    </header>
+
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#blog">Blog</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <div class="container">
+        <section id="home">
+            <h2>Welcome</h2>
+            <p>This website is dedicated to providing effective strategies and tips for preparing for UPSC, RPSC, IAS, and RAS exams. Explore our blog for detailed articles on various preparation methods.</p>
+        </section>
+
+        <section id="blog">
+            <h2>Blog</h2>
+            <div class="blog-post">
+                <h2>How to Read NCERTs for UPSC and RPSC</h2>
+                <p>Reading NCERTs is crucial for UPSC and RPSC exam preparation. Here are some effective ways to approach these books:</p>
+                <ul>
+                    <li><strong>Understand the Syllabus:</strong> Before you start reading, understand the syllabus and identify which NCERTs are relevant.</li>
+                    <li><strong>Start with Basics:</strong> Begin with basic books (Class 6-10) to build a strong foundation, then move on to advanced levels (Class 11-12).</li>
+                    <li><strong>Make Notes:</strong> While reading, make concise notes. Highlight important points and write summaries to revise later.</li>
+                    <li><strong>Revision is Key:</strong> Regularly revise your notes and highlighted sections to retain the information better.</li>
+                    <li><strong>Practice Questions:</strong> Solve previous year questions related to the chapters you read. This will help in understanding the type of questions asked.</li>
+                </ul>
+            </div>
+            <div class="blog-post">
+                <h2>How to Learn Facts for UPSC and RPSC</h2>
+                <p>Memorizing facts is a critical part of preparing for competitive exams like UPSC and RPSC. Here are some techniques to help you learn and retain facts effectively:</p>
+                <ul>
+                    <li><strong>Use Mnemonics:</strong> Create mnemonic devices to remember lists and sequences. These are memory aids that help in retaining information.</li>
+                    <li><strong>Visual Aids:</strong> Use maps, charts, and diagrams. Visual learning can significantly improve your ability to remember facts.</li>
+                    <li><strong>Regular Revision:</strong> Periodically review the facts you've learned. Spaced repetition is an effective method for long-term retention.</li>
+                    <li><strong>Group Study:</strong> Studying in groups can help in sharing knowledge and different perspectives. Teach each other to reinforce your learning.</li>
+                    <li><strong>Quizzes and Flashcards:</strong> Use quizzes and flashcards to test your memory. This active recall method is highly effective in retaining facts.</li>
+                </ul>
+            </div>
+        </section>
+
+        <section id="contact">
+            <h2>Contact</h2>
+            <p>If you have any questions or need further guidance, feel free to reach out.</p>
+            <p>Email: upsc.rpsc.guide@example.com</p>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 UPSC RPSC Preparation Guide</p>
+    </footer>
+</body>
+</html>
